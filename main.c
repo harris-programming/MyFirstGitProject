@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
-    printf("Hello Harris!\n");
-    printf("This is my practisce branch!\n");
+    printf("Hello Git!\n");
+    printf("This is my practice branch!\n");
 
     return 0;
 }
