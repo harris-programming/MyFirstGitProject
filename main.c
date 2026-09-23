@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("Hello Git!\n");
+    printf("Hello from Developer A!\n");
     printf("This is my practice branch!\n");
     printf("This is a test feature!\n");
     printf("Hello from Developer B!\n");
